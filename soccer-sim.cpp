@@ -1,3 +1,5 @@
+// Project: Soccer simulation 
+// Purpose: Uses srand to provide a fully randomized set of events for a soccer game. 
 
 #include <iostream>
 #include <ctime>
